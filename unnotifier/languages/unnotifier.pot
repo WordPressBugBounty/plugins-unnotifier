@@ -1,0 +1,300 @@
+# Copyright (C) 2025 Disable Admin Notices Individually
+# This file is distributed under the same license as the Disable Admin Notices Individually package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Disable Admin Notices Individually 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/unnotifier\n"
+"POT-Creation-Date: 2025-01-01 00:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2025-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: unnotifier.php:90
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: unnotifier.php:96
+msgid "Invalid notice ID."
+msgstr ""
+
+#: unnotifier.php:104
+msgid "Notice hidden successfully."
+msgstr ""
+
+#: unnotifier.php:119
+msgid "All hidden notices have been reset."
+msgstr ""
+
+#: unnotifier.php:127
+#: unnotifier.php:128
+msgid "Disable Admin Notices"
+msgstr ""
+
+#: unnotifier.php:129
+msgid "Admin Notices"
+msgstr ""
+
+#: unnotifier.php:143
+msgid "Notice Display Settings"
+msgstr ""
+
+#: unnotifier.php:158
+msgid "Notice Mode"
+msgstr ""
+
+#: unnotifier.php:164
+msgid "Reset Hidden Notices"
+msgstr ""
+
+#: unnotifier.php:170
+msgid "Configure how admin notices are displayed in your WordPress dashboard."
+msgstr ""
+
+#: unnotifier.php:181
+msgid "Show all notifications"
+msgstr ""
+
+#: unnotifier.php:183
+msgid "Display all admin notifications normally without any hiding options."
+msgstr ""
+
+#: unnotifier.php:186
+msgid "Hide notifications individually"
+msgstr ""
+
+#: unnotifier.php:188
+msgid "Show all notifications with a \"hide forever\" button on each one for individual control."
+msgstr ""
+
+#: unnotifier.php:191
+msgid "Hide all notifications"
+msgstr ""
+
+#: unnotifier.php:193
+msgid "Hide all admin notifications completely."
+msgstr ""
+
+#: unnotifier.php:202
+msgid "Reset All Hidden Notices"
+msgstr ""
+
+#: unnotifier.php:205
+#, php-format
+msgid "Currently %d notices are hidden. Click to show them again."
+msgstr ""
+
+#: unnotifier.php:209
+msgid "Resetting..."
+msgstr ""
+
+#: unnotifier.php:238
+msgid "An error occurred. Please try again."
+msgstr ""
+
+#: unnotifier.php:241
+msgid "Reset All Hidden Notices"
+msgstr ""
+
+#: unnotifier.php:250
+msgid "Disable Admin Notices Individually"
+msgstr ""
+
+#: unnotifier.php:134
+#: unnotifier.php:218
+msgid "Hide notification forever"
+msgstr ""
+
+#: src/Admin/Settings.php:128
+msgid "Hide More"
+msgstr ""
+
+#: src/Admin/CrossPromoManager.php:111
+msgid "AdsDestroyer could not be installed. Please try again."
+msgstr ""
+
+#: src/Admin/CrossPromoManager.php:129
+#: src/Admin/CrossPromoManager.php:158
+msgid "Already using Unnotifier to hide admin notices?"
+msgstr ""
+
+#: src/Admin/CrossPromoManager.php:134
+msgid "Learn more"
+msgstr ""
+
+#: src/Admin/CrossPromoManager.php:140
+msgid "Dismiss this promotion"
+msgstr ""
+
+#: src/Admin/CrossPromoManager.php:130
+#: src/Admin/CrossPromoManager.php:159
+msgid "Want to go further? AdsDestroyer hides ads, menus, dashboard widgets, upsells, and any other element in WordPress admin."
+msgstr ""
+
+#: src/Admin/CrossPromoManager.php:163
+msgid "See how it works"
+msgstr ""
+
+#: src/Admin/CrossPromoManager.php:191
+msgid "AdsDestroyer"
+msgstr ""
+
+#: src/Admin/CrossPromoManager.php:192
+msgid "Install AdsDestroyer now"
+msgstr ""
+
+#: src/Admin/CrossPromoManager.php:194
+msgid "Install AdsDestroyer"
+msgstr ""
+
+#: src/Admin/CrossPromoManager.php:226
+msgid "Invalid nonce."
+msgstr ""
+
+#: src/Admin/CrossPromoManager.php:230
+msgid "Insufficient permissions."
+msgstr ""
+
+#: src/Admin/CrossPromoManager.php:234
+msgid "Promotion dismissed."
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:27
+msgid "A cleaner WordPress admin for you and your clients"
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:28
+msgid "Turn a cluttered admin into a clean, branded workspace."
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:30
+msgid "Tired of plugin ads, upgrade prompts, crowded menus, and widgets your clients never use? AdsDestroyer lets you hide them with a click—without editing code or changing the plugins that power the site."
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:40
+msgid "View on WordPress.org"
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:47
+msgid "Point, Click, Gone"
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:48
+msgid "Stop hunting through settings or adding fragile snippets. Start from the admin bar, point at the distraction, and hide it. You see exactly what will disappear before you confirm."
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:50
+msgid "Remove distracting ads and upgrade prompts"
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:51
+msgid "Hide dashboard widgets nobody uses"
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:52
+msgid "Clean up unwanted blocks without writing code"
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:53
+msgid "Undo or change your choices whenever you need"
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:56
+msgid "A promotional banner in the WordPress admin selected and ready to be hidden."
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:61
+msgid "A Client-Friendly White-Label Dashboard"
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:62
+msgid "Clients should see your service—not a wall of plugin brands, sales messages, and tools they should never touch. Create a focused admin experience that feels intentional and professional."
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:64
+msgid "Remove third-party branding and promotional blocks"
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:65
+msgid "Show clients only the tools they actually need"
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:66
+msgid "Reduce confusion, mistakes, and support questions"
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:67
+msgid "Deliver a cleaner experience under your own brand"
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:70
+msgid "Third-party branded dashboard widgets and menu items marked for removal."
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:75
+msgid "Hide It for as Long as You Need"
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:76
+msgid "Some distractions should disappear forever. Others only need to stay out of the way during a launch, client handoff, or focused work session. Choose the right duration in seconds."
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:78
+msgid "Hide permanently for a lasting cleanup"
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:79
+msgid "Remove temporary messages for an hour or a day"
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:80
+msgid "Keep campaigns and upsells away for weeks or months"
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:81
+msgid "Bring anything back by editing or deleting its rule"
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:84
+msgid "Duration menu for choosing how long a promotional block stays hidden."
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:89
+msgid "Trim Bloated Menus and the Admin Bar"
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:90
+msgid "Every plugin adds another menu item, badge, and toolbar icon until the admin becomes a maze. Cut the entries nobody opens and give the interface room to breathe—on every screen, without breaking the page."
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:92
+msgid "Remove menu items and submenus nobody opens"
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:93
+msgid "Clear leftover icons and counters from the admin bar"
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:94
+msgid "Drop plugin badges that demand attention"
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:95
+msgid "Keep the rest of the page exactly where it belongs"
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:98
+msgid "Cluttered admin bar items marked for removal above a clean admin page."
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:106
+msgid "Give clients a WordPress dashboard that feels like your product."
+msgstr ""
+
+#: src/Admin/AdsDestroyerPromoPage.php:107
+msgid "Install AdsDestroyer and remove the clutter standing between users and their work."
+msgstr ""
